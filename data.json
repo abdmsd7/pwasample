@@ -1,0 +1,54 @@
+{"details":{
+  "Image":"msd.jpg",
+  "Name":"MSD",
+  "Phno":"+918143333333",
+  "Email":"tammusudheer7@gmail.com",
+  "Address":"vijayawada,krishnalanka,520013"
+},
+"Career":{
+  "info":"Do the job you love and love the job you do"
+
+},
+"education":[{
+  "qualification":"B.tech",
+  "institution":"MIC College",
+  "Year":"2016-2020",
+  "percentage":"89%"
+  },
+{
+  "qualification":"Intermediate",
+  "institution":"chaitanya",
+  "Year":"2014-2016",
+  "percentage":"83%"
+
+},
+{
+  "qualification":"SSC",
+  "institution":"Nava Bharat",
+  "Year":"2014",
+  "percentage":"88%"
+  }],
+  "skills":[{
+    "title":"Programming languages",
+    "info":["c,c++,java,python"]
+  },
+  {
+    "title":"Data-Bases",
+    "info":["Oracle,SQl"]
+  },
+  {
+    "title":"Operating systems",
+    "info":["Windows","linux","Dos"]
+  }],
+    "achievments":[{
+      "info":"World cup"
+    },
+      {
+        "info":"campions thropy"
+      },
+
+        {
+          "info":"t20 world cup"
+          }
+        ]
+}
